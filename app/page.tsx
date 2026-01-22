@@ -77,7 +77,7 @@ const EXPERIENCES_DATA = [
     skills: ['RAG', 'PostgreSQL', 'Vector DB', 'Node.js'],
     description: 'Implemented RAG embedding search for 10,000+ items, improving search relevancy by 66%. Built PostgreSQL vector database implementation and scalable backend services for AI-powered features.',
     logo: '/companies/hands.jpeg',
-    link: 'https://app.handsforu.com/',
+    link: 'https://www.linkedin.com/company/handsforu/',
   },
   {
     id: 2,
